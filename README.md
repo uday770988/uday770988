@@ -1,58 +1,15 @@
-# ⚡ Uday Ahire | Data Science Journey
+# 💫 About Me:
+currently pursuing engg at skill computer science <br>data science <br>machine learning <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Science;Machine+Learning+Explorer;Future+Data+Scientist" />
-</p>
 
----
-
-## 🧠 Who Am I?
-
-```python
-class Uday:
-    def __init__(self):
-        self.role = "Aspiring Data Scientist"
-        self.passion = "Turning raw data into insights"
-        self.learning = ["Machine Learning", "Data Analysis", "AI"]
-```
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=uday770988&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=uday770988&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uday770988&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=uday770988&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🔥 Current Focus
-
-* 🧪 Experimenting with ML models
-* 📊 Data cleaning & visualization
-* 🚀 Building real-world projects
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github" />
-</p>
-
----
-
-## ⚡ Mindset
-
-> Learn. Build. Break. Fix. Repeat.
-
----
-
-## 🚀 Goals
-
-* 📈 Become industry-ready Data Scientist
-* 🤖 Build impactful ML projects
-* 💡 Contribute to open-source
-
----
-
-## 📫 Connect
-
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-⭐ *“Consistency > Motivation”*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
