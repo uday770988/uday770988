@@ -1,62 +1,62 @@
-<div align="center">
-  <!-- Profile Image or Badge -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6BE9FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Uday+Ahire;CS+Engineering+Student;ML+%26+Data+Science+Enthusiast;GATE+2027+Prep;Building+AI+Projects" alt="Typing SVG" />
-</div>
+# 👋 Hi there, I'm Uday!
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-blue?style=for-the-badge&logo=map-pin" />
-  <img src="https://img.shields.io/badge/College-GCOE%20Nagpur-orange?style=for-the-badge&logo=university" />
-  <img src="https://img.shields.io/badge/Year-3rd%20(6th%20Sem)-green?style=for-the-badge&logo=calendar" />
-  <img src="https://img.shields.io/badge/GATE-2027%20Target-purple?style=for-the-badge&logo=chart-line" />
-  <img src="https://img.shields.io/badge/Python-3.11%2B-brightgreen?style=for-the-badge&logo=python" />
-</div>
+🎯 **Aspiring Data Scientist | Machine Learning Enthusiast**
 
-### 👨‍💻 About Me
-- 🎓 3rd-year B.Tech CSE student at **Government College of Engineering, Nagpur**.
-- 🔭 Passionate about **Machine Learning**, **Data Science**, and **AI projects** (e.g., animal disease detection, steganography).
-- 📚 Preparing for **GATE 2027** in DA/Data Science & AI—focusing on algorithms, NLP, and deep learning.
-- 💼 Seeking internships in AI/ML at Nagpur IT firms.
-- 🌱 Currently learning: Transformers, PyTorch, MLOps, and competitive programming (DP, graphs).
-- 📫 Reach me: udayahire@example.com | [LinkedIn](https://linkedin.com/in/uday-ahire)
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Uday's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
-</div>
+## 🚀 About Me
 
-## 🚀 Featured Projects
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Animal Disease Detection** | CNN-based ML model to detect diseases in animals from images. | Python, TensorFlow, OpenCV | [Repo](https://github.com/YOUR_USERNAME/project1) &#124; [Demo](https://your-demo-link) |
-| **Steganography Tool** | Hide data in images using LSB algorithm with GUI. | Python, Tkinter, Pillow | [Repo](https://github.com/YOUR_USERNAME/project2) |
-| **Movie Recommender** | Sentiment-aware recommendation system using collaborative filtering. | Python, Scikit-learn, Pandas | [Repo](https://github.com/YOUR_USERNAME/project3) |
-| **Fake News Detector** | NLP model with BERT for real-time news classification. | Python, Hugging Face, Streamlit | [Repo](https://github.com/YOUR_USERNAME/project4) |
+* 💡 Passionate about **Data Science** and **Machine Learning**
+* 📊 Love working with data to extract meaningful insights
+* 🤖 Exploring algorithms, models, and real-world applications of ML
+* 🌱 Currently learning and improving my skills in:
 
-<details>
-<summary>📊 GitHub Streak (Click to Expand)</summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak Stats" />
-</details>
+  * Python for Data Science
+  * Data Analysis & Visualization
+  * Machine Learning Algorithms
 
-## 🛠️ Tech Stack & Tools
-```mermaid
-graph TB
-    ML[ML/DL: TensorFlow, PyTorch, Scikit-learn]
-    DS[Data: Pandas, NumPy, Matplotlib, Seaborn]
-    Lang[Languages: Python, C, JS, HTML/CSS]
-    Tools[Tools: Jupyter, Git, VS Code, Streamlit]
-    Exams[GATE Prep: GateWallah, GeeksforGeeks]
-    ML --> DS --> Lang --> Tools --> Exams
-```
+---
 
-## 📈 Progress
-[![Uday's year progress](https://progress-bar.dev/70/?suffix=pr&color=6BE9FF)](https://your-progress-link)
+## 🛠️ Skills & Tools
 
-**"Turning data into decisions with code and curiosity."**
+* **Programming:** Python, C++
+* **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn
+* **Tools:** Jupyter Notebook, Git, GitHub
+* **Concepts:** Data Cleaning, Exploratory Data Analysis (EDA), Supervised & Unsupervised Learning
 
-<div align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new"><img src="https://img.shields.io/badge/Issues-Open%20an%20issue-red?style=for-the-badge&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
+---
 
-<!-- Star History -->
-<div align="center"><img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" /></div>
+## 📈 What I'm Working On
+
+* 🔍 Building small projects in Data Science
+* 📊 Practicing datasets and improving model accuracy
+* 📚 Learning advanced ML concepts step by step
+
+---
+
+## 📂 Projects
+
+Here are some of my works:
+
+* 📌 Data Analysis Projects
+* 📌 Machine Learning Models
+* 📌 Arduino + Tech Projects
+
+*(More projects coming soon... stay tuned!)*
+
+---
+
+## 📫 Connect With Me
+
+* 💼 GitHub: https://github.com/your-username
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving problems and turning raw data into meaningful stories 📊✨
+
+---
+
+⭐ *"Keep learning, keep building!"*
