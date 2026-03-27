@@ -1,83 +1,58 @@
-# ⚡ Uday Ahire | Turning Data into Decisions
+# ⚡ Uday Ahire | Data Science Journey
 
-```python
-class Uday:
-    def __init__(self):
-        self.role = "Aspiring Data Scientist"
-        self.interests = ["Machine Learning", "Data Analysis", "AI"]
-        self.current_focus = "Building real-world ML projects"
-    
-    def mindset(self):
-        return "Learn → Build → Fail → Improve → Repeat 🚀"
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Science;Machine+Learning+Explorer;Future+Data+Scientist" />
+</p>
 
 ---
 
 ## 🧠 Who Am I?
 
-I’m not just learning Data Science…
-I’m **obsessed with understanding how data tells stories**.
-
-* 🔍 I dive deep into datasets to find hidden patterns
-* 🤖 I build models that actually *learn*
-* ⚡ I believe consistency beats talent
-
----
-
-## 🔥 What I’m Doing Right Now
-
-* 🧪 Experimenting with ML models
-* 📊 Turning messy data into clean insights
-* 🏗️ Building projects that solve real problems
-
----
-
-## 🛠️ My Tech Stack
-
-```text
-💻 Python      📊 Pandas      🔢 NumPy
-📈 Matplotlib  🤖 Scikit-learn
-🧠 Machine Learning Algorithms
+```python
+class Uday:
+    def __init__(self):
+        self.role = "Aspiring Data Scientist"
+        self.passion = "Turning raw data into insights"
+        self.learning = ["Machine Learning", "Data Analysis", "AI"]
 ```
 
 ---
 
-## 🚀 Projects That Define Me
+## 🔥 Current Focus
 
-Instead of just coding… I build things that matter:
-
-* 📊 Data Analysis Projects → Finding insights from raw data
-* 🤖 ML Models → Prediction, classification & more
-* 🔌 Arduino Projects → Because I like mixing hardware with code
+* 🧪 Experimenting with ML models
+* 📊 Data cleaning & visualization
+* 🚀 Building real-world projects
 
 ---
 
-## 📈 My Growth Philosophy
+## 🛠️ Tech Stack
 
-> “I don't aim to be perfect. I aim to be better than yesterday.”
-
----
-
-## ⚔️ Current Mission
-
-Turning myself from:
-
-> Beginner → Skilled Data Scientist
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github" />
+</p>
 
 ---
 
-## 📫 Reach Me
+## ⚡ Mindset
+
+> Learn. Build. Break. Fix. Repeat.
+
+---
+
+## 🚀 Goals
+
+* 📈 Become industry-ready Data Scientist
+* 🤖 Build impactful ML projects
+* 💡 Contribute to open-source
+
+---
+
+## 📫 Connect
 
 * GitHub: https://github.com/your-username
 * Email: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-## ⚡ Fun Truth
-
-I don’t just run models…
-I try to understand *why they fail* 😄
-
----
-
-⭐ If you like my journey, follow along — it’s just getting started.
+⭐ *“Consistency > Motivation”*
