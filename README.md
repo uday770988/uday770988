@@ -3,13 +3,13 @@
   <!-- Dark Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0A0A&height=240&section=header&text=Uday%20Ahire&fontSize=65&fontColor=00FF88&animation=twinkling&desc=Machine%20Learning%20%26%20Data%20Science%20Explorer&descAlign=62&descSize=22" alt="Uday Ahire Header" />
 
-  <!-- Small Bike Moving on Black Mountains - FIXED -->
+  <!-- Small Bike Moving on Black Mountains -->
   <br><br>
-  <img src="https://media.giphy.com/media/3o7TKsQ8f6z0z0z0z0/giphy.gif" width="420" alt="Bike riding through dark mountains" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420" alt="Bike riding through dark mountains" />
 
   <h1>Hey there! I'm Uday Ahire 🚀</h1>
 
-  <!-- Animated Typing Effect -->
+  <!-- Fixed Typing Animation (ampersand escaped) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=6th+Sem+CSE+Student+@+GCOEN+Nagpur;Machine+Learning+%26+Data+Science+Enthusiast;Building+AI+that+actually+works;Python+%7C+TensorFlow+%7C+React;Hunting+ML%2FDS+Internships" alt="Typing Animation" />
 
   <p><strong>Turning data into intelligence | Hiding secrets in pixels | Predicting the future with models</strong></p>
@@ -39,9 +39,10 @@
 Hiding secret messages inside images like a digital spy using **Least Significant Bit (LSB)** technique.
 
 **Tech**: Python • Pillow • Tkinter • NumPy  
-[👉 View Repo](https://github.com/yourusername/image-steganography) *(replace with your actual link)*
+[👉 View Repo](https://github.com/yourusername/image-steganography)  
+*(Replace `yourusername` with your actual GitHub username)*
 
-*(Add your other ML projects here)*
+*(Add your other ML / Data Science projects here)*
 
 <br>
 
@@ -60,15 +61,13 @@ Hiding secret messages inside images like a digital spy using **Least Significan
 ### 🌱 Currently Leveling Up
 - Advanced Deep Learning with TensorFlow
 - NLP with NLTK
-- Deploying ML apps (Streamlit / Flask / React)
+- Deploying ML models (Streamlit / Flask)
 
 ### 🎯 Open for Internships
-**Machine Learning • Data Science • Python Developer** roles
+**Machine Learning • Data Science • Python Developer**
 
 ---
 
 <div align="center">
-
-**Made with ❤️ + Python + Coffee in Nagpur**
-
+Made with ❤️ + Python + Coffee in Nagpur
 </div>
