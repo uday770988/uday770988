@@ -1,21 +1,19 @@
 <div align="center">
 
-  <!-- Animated Blue-to-Yellow Tile Slide Banner -->
-  <div style="
-    background: linear-gradient(90deg, #0A66C2 50%, #FFD700 50%);
-    background-size: 200% 100%;
-    color: white;
-    padding: 40px 20px;
-    border-radius: 12px;
-    margin: 20px 0;
-    animation: slideTile 6s linear infinite;
-    font-size: 28px;
-    font-weight: bold;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-  ">
-    <span id="animated-text" style="display: inline-block; transition: all 1.2s ease;">
-      Uday Ahire
-    </span>
+  <!-- Tile Flip Animation: Blue → Yellow (Left to Right Flip) -->
+  <div class="flip-card" style="width: 100%; max-width: 700px; height: 160px; perspective: 1000px; margin: 25px 0;">
+    <div class="flip-card-inner" style="position: relative; width: 100%; height: 100%; text-align: center; transition: transform 0.8s; transform-style: preserve-3d; box-shadow: 0 4px 15px rgba(0,0,0,0.2); border-radius: 12px;">
+      
+      <!-- Front Side (Blue) -->
+      <div class="flip-card-front" style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(135deg, #0A66C2, #1E88E5); color: white; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 32px; font-weight: bold;">
+        Uday Ahire
+      </div>
+      
+      <!-- Back Side (Yellow) -->
+      <div class="flip-card-back" style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(135deg, #FFD700, #FFAA00); color: #1a1a1a; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 32px; font-weight: bold; transform: rotateY(180deg);">
+        Data Science
+      </div>
+    </div>
   </div>
 
   <h1>Hi, I'm Uday Ahire 👋</h1>
@@ -27,30 +25,23 @@
 
   <p>
     Passionate about <strong>Machine Learning</strong> and <strong>Data Science</strong>.<br>
-    Building intelligent systems and turning data into impactful solutions.
+    Building practical AI solutions and turning data into real impact.
   </p>
 
 </div>
 
 <style>
-@keyframes slideTile {
-  0%   { background-position: 0% 50%; }
-  50%  { background-position: -100% 50%; }
-  100% { background-position: 0% 50%; }
+/* Auto flip animation - flips every 5 seconds */
+.flip-card-inner {
+  animation: flipTile 10s infinite ease-in-out;
 }
 
-/* Text slide + color change effect */
-#animated-text {
-  animation: textSlide 6s linear infinite;
-}
-
-@keyframes textSlide {
-  0%   { transform: translateX(0); opacity: 1; color: #ffffff; }
-  45%  { transform: translateX(0); opacity: 1; color: #ffffff; }
-  50%  { transform: translateX(30px); opacity: 0; }
-  55%  { transform: translateX(-30px); opacity: 0; content: "Data Science"; }
-  60%  { transform: translateX(0); opacity: 1; color: #FFD700; }
-  100% { transform: translateX(0); opacity: 1; color: #FFD700; }
+@keyframes flipTile {
+  0%    { transform: rotateY(0deg); }
+  45%   { transform: rotateY(0deg); }
+  55%   { transform: rotateY(180deg); }
+  95%   { transform: rotateY(180deg); }
+  100%  { transform: rotateY(0deg); }
 }
 </style>
 
@@ -67,10 +58,10 @@
 ### 🔥 Featured Projects
 
 **Image Steganography Tool**  
-Secure Python app to hide secret messages in images using LSB technique.
+Python application to hide secret messages inside images using Least Significant Bit (LSB) technique.
 
-- **Tech**: Python, Pillow, Tkinter, NumPy
-- [View Repo](https://github.com/yourusername/image-steganography)
+- **Tech Stack**: Python, Pillow, Tkinter, NumPy
+- [View Repository](https://github.com/yourusername/image-steganography)
 
 *(Add your other ML/Data Science projects here)*
 
@@ -80,14 +71,11 @@ Secure Python app to hide secret messages in images using LSB technique.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true)
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true)
 
 </div>
 
 ---
-
-### 🎯 Seeking
-**Machine Learning / Data Science Internship**
 
 <div align="center">
 Made with ❤️ in Nagpur
