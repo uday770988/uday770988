@@ -36,19 +36,7 @@ Developed a secure Python application to hide and extract secret text messages w
 - **Key Features**: Encoding/decoding with a clean GUI interface
 - [View Repository](https://github.com/yourusername/image-steganography) *(replace with your actual link)*
 
-**[Add Project 2 Title Here]**  
-Brief description of the project, problem it solves, and key results (e.g., accuracy achieved).
 
-- **Technologies**: e.g., Scikit-learn, Pandas, Matplotlib
-- [View Repository](link)
-
-**[Add Project 3 Title Here]**  
-Brief description...
-
-- **Technologies**: ...
-- [View Repository](link)
-
----
 
 </div>
 
