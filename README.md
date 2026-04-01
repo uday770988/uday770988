@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- Tile Flip Animation: Blue → Yellow (Left to Right Flip) -->
-  <div class="flip-card" style="width: 100%; max-width: 700px; height: 160px; perspective: 1000px; margin: 25px 0;">
-    <div class="flip-card-inner" style="position: relative; width: 100%; height: 100%; text-align: center; transition: transform 0.8s; transform-style: preserve-3d; box-shadow: 0 4px 15px rgba(0,0,0,0.2); border-radius: 12px;">
+  <!-- Simple Left-to-Right Tile Flip Banner -->
+  <div style="width: 100%; max-width: 720px; height: 160px; perspective: 1200px; margin: 30px 0;">
+    <div id="flipContainer" style="position: relative; width: 100%; height: 100%; transition: transform 1.2s ease-in-out; transform-style: preserve-3d; border-radius: 16px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
       
-      <!-- Front Side (Blue) -->
-      <div class="flip-card-front" style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(135deg, #0A66C2, #1E88E5); color: white; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 32px; font-weight: bold;">
+      <!-- Front Side - Blue -->
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(135deg, #0A66C2, #1E88E5); color: white; border-radius: 16px; display: flex; align-items: center; justify-content: center; font-size: 34px; font-weight: 700;">
         Uday Ahire
       </div>
       
-      <!-- Back Side (Yellow) -->
-      <div class="flip-card-back" style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(135deg, #FFD700, #FFAA00); color: #1a1a1a; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 32px; font-weight: bold; transform: rotateY(180deg);">
+      <!-- Back Side - Yellow -->
+      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(135deg, #FFD700, #FFAA00); color: #1a1a1a; border-radius: 16px; display: flex; align-items: center; justify-content: center; font-size: 34px; font-weight: 700; transform: rotateY(180deg);">
         Data Science
       </div>
     </div>
@@ -25,18 +25,18 @@
 
   <p>
     Passionate about <strong>Machine Learning</strong> and <strong>Data Science</strong>.<br>
-    Building practical AI solutions and turning data into real impact.
+    Building practical AI solutions and turning data into meaningful impact.
   </p>
 
 </div>
 
 <style>
-/* Auto flip animation - flips every 5 seconds */
-.flip-card-inner {
-  animation: flipTile 10s infinite ease-in-out;
+/* Auto left-to-right flip every 8 seconds */
+#flipContainer {
+  animation: horizontalFlip 8s infinite ease-in-out;
 }
 
-@keyframes flipTile {
+@keyframes horizontalFlip {
   0%    { transform: rotateY(0deg); }
   45%   { transform: rotateY(0deg); }
   55%   { transform: rotateY(180deg); }
@@ -58,22 +58,12 @@
 ### 🔥 Featured Projects
 
 **Image Steganography Tool**  
-Python application to hide secret messages inside images using Least Significant Bit (LSB) technique.
+Python-based application to hide secret text messages inside images using Least Significant Bit (LSB) technique.
 
-- **Tech Stack**: Python, Pillow, Tkinter, NumPy
+- **Tech Stack**: Python, Pillow (PIL), Tkinter, NumPy
 - [View Repository](https://github.com/yourusername/image-steganography)
 
-*(Add your other ML/Data Science projects here)*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true)
-
-</div>
+*(Replace `yourusername` with your actual GitHub username and add your other projects)*
 
 ---
 
