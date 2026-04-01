@@ -1,12 +1,16 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=220&section=header&text=Uday%20Ahire&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
+  <!-- Dark Animated Header with ML Vibe -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0A0A&height=240&section=header&text=Uday%20Ahire&fontSize=65&fontColor=00FF88&animation=twinkling&desc=Machine%20Learning%20%26%20Data%20Science%20Explorer&descAlign=62&descSize=22" alt="Uday Ahire Header" />
+
+  <!-- Small Bike Moving on Black Mountains Animation -->
+  <br>
+  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="380" alt="Bike riding on mountains animation" />
 
   <h1>Hey there! I'm Uday Ahire 🚀</h1>
 
   <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=6th+Sem+CSE+Student+@+GCOEN+Nagpur;Machine+Learning+%26+Data+Science+Enthusiast;Building+AI+that+actually+works;Python+%7C+TensorFlow+%7C+React;Currently+hunting+ML%2FDS+Internships" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=6th+Sem+CSE+Student+@+GCOEN+Nagpur;Machine+Learning+%26+Data+Science+Enthusiast;Building+AI+that+actually+works;Python+%7C+TensorFlow+%7C+React;Hunting+ML%2FDS+Internships" alt="Typing Animation" />
 
   <p><strong>Turning data into intelligence | Hiding secrets in pixels | Predicting the future with models</strong></p>
 
@@ -33,68 +37,58 @@
 ### 🔥 Featured Projects
 
 **🕵️‍♂️ Image Steganography Tool**  
-Hiding secret messages inside images like a digital spy!  
-Used **Least Significant Bit (LSB)** technique — the image looks completely normal, but the data is safely hidden.
+Hiding secret messages inside images like a digital spy using **Least Significant Bit (LSB)** technique.
 
 **Tech**: Python • Pillow • Tkinter • NumPy  
-**Vibe**: Image Processing + Security  
+[👉 View Repo](https://github.com/yourusername/image-steganography)  *(replace with your actual link)*
 
-[👉 Check the Repo](https://github.com/yourusername/image-steganography) *(replace with your link)*
+**🤖 [Your Second ML Project Title]**  
+Short catchy description here...
 
-**🤖 [Your ML Project 2 Title – e.g. Sentiment Analysis Dashboard]**  
-Analyzing movie reviews to detect emotions using NLP.  
+**Tech**: NLTK • Scikit-learn • Seaborn  
+[👉 Explore](your-link)
 
-**Tech**: NLTK • Scikit-learn • Seaborn • Matplotlib  
-**Result**: XX% accuracy with beautiful visualizations  
+**📈 [Your Third ML Project]**  
+Description...
 
-[👉 Explore](link)
-
-**📈 [Your ML Project 3 – e.g. Disease Prediction System]**  
-Smart model to predict diabetes/heart disease risk.  
-
-**Tech**: TensorFlow • Pandas • Seaborn  
-
-*(Add 1-2 more projects here — even small college ones look great!)*
+*(Add your real projects here – even small ones boost your profile!)*
 
 <br>
 
-### 📊 GitHub Activity (Live Stats)
+### 📊 GitHub Stats
 
 <div align="center">
 
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
 
 </div>
 
 <br>
 
 ### 🌱 Currently Leveling Up
-- Advanced Deep Learning & Neural Networks
-- NLP with NLTK + Real-world deployment (Streamlit/Flask)
-- Building full-stack ML apps with React frontend
+- Advanced Deep Learning with TensorFlow
+- NLP & Real-world ML deployment (Streamlit / Flask)
+- Full-stack ML apps with React
 
-### 🎯 Open to Opportunities
-**Machine Learning • Data Science • Python Developer Internship**  
-Ready to contribute to real AI projects and learn from industry experts!
+### 🎯 Open for Internships
+**Machine Learning • Data Science • Python Developer** roles  
+Eager to contribute and grow!
 
 ---
 
 <div align="center">
 
-### Connect & Collaborate
+### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayahirestu95@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917709881093)
 
 **Made with ❤️ + Python + Coffee in Nagpur**
 
 </div>
 
-<!-- Optional fun GIF at bottom -->
+<!-- Fun closing GIF (optional) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="ML Magic GIF" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="ML Magic" />
 </div>
