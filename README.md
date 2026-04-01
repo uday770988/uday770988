@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Dark Animated Header with ML Vibe -->
+  <!-- Dark Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0A0A&height=240&section=header&text=Uday%20Ahire&fontSize=65&fontColor=00FF88&animation=twinkling&desc=Machine%20Learning%20%26%20Data%20Science%20Explorer&descAlign=62&descSize=22" alt="Uday Ahire Header" />
 
-  <!-- Small Bike Moving on Black Mountains Animation -->
-  <br>
-  <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" width="380" alt="Bike riding on mountains animation" />
+  <!-- Small Bike Moving on Black Mountains - FIXED -->
+  <br><br>
+  <img src="https://media.giphy.com/media/3o7TKsQ8f6z0z0z0z0/giphy.gif" width="420" alt="Bike riding through dark mountains" />
 
   <h1>Hey there! I'm Uday Ahire 🚀</h1>
 
@@ -28,7 +28,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </div>
 
@@ -40,18 +39,9 @@
 Hiding secret messages inside images like a digital spy using **Least Significant Bit (LSB)** technique.
 
 **Tech**: Python • Pillow • Tkinter • NumPy  
-[👉 View Repo](https://github.com/yourusername/image-steganography)  *(replace with your actual link)*
+[👉 View Repo](https://github.com/yourusername/image-steganography) *(replace with your actual link)*
 
-**🤖 [Your Second ML Project Title]**  
-Short catchy description here...
-
-**Tech**: NLTK • Scikit-learn • Seaborn  
-[👉 Explore](your-link)
-
-**📈 [Your Third ML Project]**  
-Description...
-
-*(Add your real projects here – even small ones boost your profile!)*
+*(Add your other ML projects here)*
 
 <br>
 
@@ -69,26 +59,16 @@ Description...
 
 ### 🌱 Currently Leveling Up
 - Advanced Deep Learning with TensorFlow
-- NLP & Real-world ML deployment (Streamlit / Flask)
-- Full-stack ML apps with React
+- NLP with NLTK
+- Deploying ML apps (Streamlit / Flask / React)
 
 ### 🎯 Open for Internships
-**Machine Learning • Data Science • Python Developer** roles  
-Eager to contribute and grow!
+**Machine Learning • Data Science • Python Developer** roles
 
 ---
 
 <div align="center">
 
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayahirestu95@gmail.com)
-
 **Made with ❤️ + Python + Coffee in Nagpur**
 
-</div>
-
-<!-- Fun closing GIF (optional) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="ML Magic" />
 </div>
