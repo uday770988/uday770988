@@ -1,108 +1,62 @@
-  <!-- Tile 1 -->
-  <div style="perspective: 1200px; width: 122px; height: 92px; flex-shrink: 0;">
-    <div style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: flipTile 4800ms infinite linear; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
-      <!-- Front: ML -->
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ff8c00, #ff6200); color: #ffffff; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 48px; font-weight: 900; letter-spacing: -3px; text-shadow: 0 4px 10px rgba(0,0,0,0.4);">
-        ML
-      </div>
-      <!-- Back: DATA SCIENCE -->
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ffcc00, #facc15); color: #1e2937; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 16px; font-weight: 900; line-height: 1.05; text-align: center; letter-spacing: -0.8px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-        DATA<br>SCIENCE
-      </div>
-    </div>
-  </div>
+# Hi, I'm Uday Ahire 👋
 
-  <!-- Tile 2 (delay -150ms) -->
-  <div style="perspective: 1200px; width: 122px; height: 92px; flex-shrink: 0;">
-    <div style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: flipTile 4800ms infinite linear; animation-delay: -150ms; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ff8c00, #ff6200); color: #ffffff; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 48px; font-weight: 900; letter-spacing: -3px; text-shadow: 0 4px 10px rgba(0,0,0,0.4);">
-        ML
-      </div>
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ffcc00, #facc15); color: #1e2937; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 16px; font-weight: 900; line-height: 1.05; text-align: center; letter-spacing: -0.8px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-        DATA<br>SCIENCE
-      </div>
-    </div>
-  </div>
+**B.Tech Computer Science & Engineering Student** (6th Semester)  
+Government College of Engineering, Nagpur  
 
-  <!-- Tile 3 (delay -300ms) -->
-  <div style="perspective: 1200px; width: 122px; height: 92px; flex-shrink: 0;">
-    <div style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: flipTile 4800ms infinite linear; animation-delay: -300ms; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ff8c00, #ff6200); color: #ffffff; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 48px; font-weight: 900; letter-spacing: -3px; text-shadow: 0 4px 10px rgba(0,0,0,0.4);">
-        ML
-      </div>
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ffcc00, #facc15); color: #1e2937; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 16px; font-weight: 900; line-height: 1.05; text-align: center; letter-spacing: -0.8px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-        DATA<br>SCIENCE
-      </div>
-    </div>
-  </div>
+Passionate about **Machine Learning**, **Data Science**, and building practical AI solutions. Currently exploring deep learning, NLP, and data visualization to solve real-world problems.
 
-  <!-- Tile 4 (delay -450ms) -->
-  <div style="perspective: 1200px; width: 122px; height: 92px; flex-shrink: 0;">
-    <div style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: flipTile 4800ms infinite linear; animation-delay: -450ms; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ff8c00, #ff6200); color: #ffffff; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 48px; font-weight: 900; letter-spacing: -3px; text-shadow: 0 4px 10px rgba(0,0,0,0.4);">
-        ML
-      </div>
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ffcc00, #facc15); color: #1e2937; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 16px; font-weight: 900; line-height: 1.05; text-align: center; letter-spacing: -0.8px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-        DATA<br>SCIENCE
-      </div>
-    </div>
-  </div>
+### 🛠️ Technical Skills
+- **Languages**: Python, Java, JavaScript, HTML, CSS, React
+- **Machine Learning & Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn (sklearn), TensorFlow, NLTK, Learntools
+- **Other Tools**: Git, Jupyter Notebook, Excel
 
-  <!-- Tile 5 (delay -600ms) -->
-  <div style="perspective: 1200px; width: 122px; height: 92px; flex-shrink: 0;">
-    <div style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: flipTile 4800ms infinite linear; animation-delay: -600ms; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ff8c00, #ff6200); color: #ffffff; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 48px; font-weight: 900; letter-spacing: -3px; text-shadow: 0 4px 10px rgba(0,0,0,0.4);">
-        ML
-      </div>
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ffcc00, #facc15); color: #1e2937; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 16px; font-weight: 900; line-height: 1.05; text-align: center; letter-spacing: -0.8px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-        DATA<br>SCIENCE
-      </div>
-    </div>
-  </div>
+### 🚀 Featured Projects
 
-  <!-- Tile 6 (delay -750ms) -->
-  <div style="perspective: 1200px; width: 122px; height: 92px; flex-shrink: 0;">
-    <div style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: flipTile 4800ms infinite linear; animation-delay: -750ms; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ff8c00, #ff6200); color: #ffffff; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 48px; font-weight: 900; letter-spacing: -3px; text-shadow: 0 4px 10px rgba(0,0,0,0.4);">
-        ML
-      </div>
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ffcc00, #facc15); color: #1e2937; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 16px; font-weight: 900; line-height: 1.05; text-align: center; letter-spacing: -0.8px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-        DATA<br>SCIENCE
-      </div>
-    </div>
-  </div>
+#### 1. Image Steganography Tool
+A secure Python application to hide secret text messages inside digital images using **Least Significant Bit (LSB)** technique.
 
-  <!-- Tile 7 (delay -900ms) -->
-  <div style="perspective: 1200px; width: 122px; height: 92px; flex-shrink: 0;">
-    <div style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: flipTile 4800ms infinite linear; animation-delay: -900ms; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ff8c00, #ff6200); color: #ffffff; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 48px; font-weight: 900; letter-spacing: -3px; text-shadow: 0 4px 10px rgba(0,0,0,0.4);">
-        ML
-      </div>
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ffcc00, #facc15); color: #1e2937; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 16px; font-weight: 900; line-height: 1.05; text-align: center; letter-spacing: -0.8px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-        DATA<br>SCIENCE
-      </div>
-    </div>
-  </div>
+**Key Features:**
+- Encode and decode hidden messages without visible changes to the image
+- User-friendly GUI using Tkinter
+- Strong understanding of image processing and basic cryptography
 
-  <!-- Tile 8 (delay -1050ms) -->
-  <div style="perspective: 1200px; width: 122px; height: 92px; flex-shrink: 0;">
-    <div style="position: relative; width: 100%; height: 100%; transform-style: preserve-3d; animation: flipTile 4800ms infinite linear; animation-delay: -1050ms; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.4);">
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ff8c00, #ff6200); color: #ffffff; display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 48px; font-weight: 900; letter-spacing: -3px; text-shadow: 0 4px 10px rgba(0,0,0,0.4);">
-        ML
-      </div>
-      <div style="position: absolute; inset: 0; backface-visibility: hidden; background: linear-gradient(135deg, #ffcc00, #facc15); color: #1e2937; transform: rotateY(180deg); display: flex; align-items: center; justify-content: center; border-radius: 12px; font-size: 16px; font-weight: 900; line-height: 1.05; text-align: center; letter-spacing: -0.8px; text-shadow: 0 2px 4px rgba(0,0,0,0.3);">
-        DATA<br>SCIENCE
-      </div>
-    </div>
-  </div>
+**Tech Stack:** Python, Pillow (PIL), Tkinter, NumPy
 
-  <style>
-    @keyframes flipTile {
-      0%   { transform: rotateY(0deg); }
-      18%  { transform: rotateY(180deg); }
-      62%  { transform: rotateY(180deg); }
-      80%  { transform: rotateY(360deg); }
-      100% { transform: rotateY(360deg); }
-    }
-  </style>
-</xhtml:div>
+[View Project →](https://github.com/yourusername/image-steganography)  
+*(Replace with your actual repo link)*
+
+#### 2. [Add Your 2nd ML Project Here – e.g., House Price Prediction / Iris Species Classification / Sentiment Analysis]
+**Project Title**
+
+Short description: What problem does it solve?  
+**Tech Stack**: Pandas, Scikit-learn / TensorFlow, Matplotlib, Seaborn  
+**Key Results**: Achieved XX% accuracy | Used X algorithm | Deployed as Streamlit app (if any)
+
+[View Project →](link)
+
+#### 3. [Add Your 3rd Project – Recommended: NLP or Classification Project]
+Example ideas you can build quickly:
+- **Movie Review Sentiment Analysis** (using NLTK + sklearn)
+- **Diabetes / Heart Disease Prediction** (classification with sklearn)
+- **Customer Churn Prediction**
+- **Stock Price Prediction** (time series with TensorFlow)
+
+### 📚 Currently Learning
+- Advanced Deep Learning with TensorFlow/Keras
+- NLP techniques using NLTK
+- Building end-to-end ML pipelines and deployment (Flask/Streamlit)
+
+### 🎯 Career Objective
+Seeking **Machine Learning / Data Science / Python Developer Internship** to apply my skills in real-world projects and gain industry exposure.
+
+---
+
+### Connect with me:
+- Email: udayahirestu95@gmail.com
+- Phone: +91 7709881093
+- LinkedIn: [Add your LinkedIn URL]
+- GitHub: [github.com/yourusername]
+
+---
+
+⭐ Feel free to explore my repositories and reach out for collaboration!
