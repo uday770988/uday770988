@@ -1,73 +1,84 @@
 <div align="center">
 
-  <!-- Dark Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A0A0A&height=240&section=header&text=Uday%20Ahire&fontSize=65&fontColor=00FF88&animation=twinkling&desc=Machine%20Learning%20%26%20Data%20Science%20Explorer&descAlign=62&descSize=22" alt="Uday Ahire Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=180&section=header&text=Uday%20Ahire&fontSize=50&fontColor=ffffff" alt="Uday Ahire" />
 
-  <!-- Small Bike Moving on Black Mountains -->
-  <br><br>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="420" alt="Bike riding through dark mountains" />
+  <h1>Hi, I'm Uday Ahire 👋</h1>
 
-  <h1>Hey there! I'm Uday Ahire 🚀</h1>
+  <p>
+    <strong>B.Tech Computer Science & Engineering (6th Semester)</strong><br>
+    Government College of Engineering, Nagpur
+  </p>
 
-  <!-- Fixed Typing Animation (ampersand escaped) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=6th+Sem+CSE+Student+@+GCOEN+Nagpur;Machine+Learning+%26+Data+Science+Enthusiast;Building+AI+that+actually+works;Python+%7C+TensorFlow+%7C+React;Hunting+ML%2FDS+Internships" alt="Typing Animation" />
-
-  <p><strong>Turning data into intelligence | Hiding secrets in pixels | Predicting the future with models</strong></p>
-
-</div>
-
-<br>
-
-### 🛠️ My Tech Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  <p>
+    Passionate about <strong>Machine Learning</strong>, <strong>Data Science</strong>, and building practical AI solutions.<br>
+    I enjoy turning data into insights and developing intelligent systems that solve real-world problems.
+  </p>
 
 </div>
 
-<br>
+---
+
+### 🛠️ Technical Skills
+
+- **Programming Languages**: Python, Java, JavaScript, HTML, CSS, React
+- **Machine Learning & Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLTK
+- **Tools & Technologies**: Git, Jupyter Notebook, Microsoft Excel
+- **Core Concepts**: Data Structures & Algorithms, DBMS, OOP, Image Processing
+
+---
 
 ### 🔥 Featured Projects
 
-**🕵️‍♂️ Image Steganography Tool**  
-Hiding secret messages inside images like a digital spy using **Least Significant Bit (LSB)** technique.
+**Image Steganography Tool**  
+Developed a secure Python application to hide and extract secret text messages within digital images using the **Least Significant Bit (LSB)** technique. The cover image remains visually unchanged.
 
-**Tech**: Python • Pillow • Tkinter • NumPy  
-[👉 View Repo](https://github.com/yourusername/image-steganography)  
-*(Replace `yourusername` with your actual GitHub username)*
+- **Technologies**: Python, Pillow (PIL), Tkinter, NumPy
+- **Key Features**: Encoding/decoding with a clean GUI interface
+- [View Repository](https://github.com/yourusername/image-steganography) *(replace with your actual link)*
 
-*(Add your other ML / Data Science projects here)*
+**[Add Project 2 Title Here]**  
+Brief description of the project, problem it solves, and key results (e.g., accuracy achieved).
 
-<br>
+- **Technologies**: e.g., Scikit-learn, Pandas, Matplotlib
+- [View Repository](link)
 
-### 📊 GitHub Stats
+**[Add Project 3 Title Here]**  
+Brief description...
+
+- **Technologies**: ...
+- [View Repository](link)
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
 
-![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
-<br>
+---
 
-### 🌱 Currently Leveling Up
-- Advanced Deep Learning with TensorFlow
-- NLP with NLTK
-- Deploying ML models (Streamlit / Flask)
+### 🌱 Currently Learning
+- Advanced Deep Learning and Neural Networks with TensorFlow/Keras
+- Natural Language Processing (NLP) techniques
+- End-to-end ML model deployment (Streamlit / Flask)
 
-### 🎯 Open for Internships
-**Machine Learning • Data Science • Python Developer**
+### 🎯 Internship Goal
+Actively seeking **Machine Learning / Data Science / Python Developer Internship** opportunities where I can apply my skills to real-world projects and gain valuable industry experience.
 
 ---
 
 <div align="center">
-Made with ❤️ + Python + Coffee in Nagpur
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayahirestu95@gmail.com)
+
+**Made with ❤️ in Nagpur**
+
 </div>
