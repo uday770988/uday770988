@@ -76,7 +76,7 @@ Actively seeking **Machine Learning / Data Science / Python Developer Internship
 
 ### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-ahire-3309952a5/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayahirestu95@gmail.com)
 
 **Made with ❤️ in Nagpur**
