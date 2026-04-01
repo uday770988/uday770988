@@ -1,20 +1,6 @@
 <div align="center">
 
-  <!-- Simple Left-to-Right Tile Flip Banner -->
-  <div style="width: 100%; max-width: 720px; height: 160px; perspective: 1200px; margin: 30px 0;">
-    <div id="flipContainer" style="position: relative; width: 100%; height: 100%; transition: transform 1.2s ease-in-out; transform-style: preserve-3d; border-radius: 16px; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-      
-      <!-- Front Side - Blue -->
-      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(135deg, #0A66C2, #1E88E5); color: white; border-radius: 16px; display: flex; align-items: center; justify-content: center; font-size: 34px; font-weight: 700;">
-        Uday Ahire
-      </div>
-      
-      <!-- Back Side - Yellow -->
-      <div style="position: absolute; width: 100%; height: 100%; backface-visibility: hidden; background: linear-gradient(135deg, #FFD700, #FFAA00); color: #1a1a1a; border-radius: 16px; display: flex; align-items: center; justify-content: center; font-size: 34px; font-weight: 700; transform: rotateY(180deg);">
-        Data Science
-      </div>
-    </div>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=180&section=header&text=Uday%20Ahire&fontSize=50&fontColor=ffffff" alt="Uday Ahire" />
 
   <h1>Hi, I'm Uday Ahire 👋</h1>
 
@@ -24,49 +10,75 @@
   </p>
 
   <p>
-    Passionate about <strong>Machine Learning</strong> and <strong>Data Science</strong>.<br>
-    Building practical AI solutions and turning data into meaningful impact.
+    Passionate about <strong>Machine Learning</strong>, <strong>Data Science</strong>, and building practical AI solutions.<br>
+    I enjoy turning data into insights and developing intelligent systems that solve real-world problems.
   </p>
 
 </div>
-
-<style>
-/* Auto left-to-right flip every 8 seconds */
-#flipContainer {
-  animation: horizontalFlip 8s infinite ease-in-out;
-}
-
-@keyframes horizontalFlip {
-  0%    { transform: rotateY(0deg); }
-  45%   { transform: rotateY(0deg); }
-  55%   { transform: rotateY(180deg); }
-  95%   { transform: rotateY(180deg); }
-  100%  { transform: rotateY(0deg); }
-}
-</style>
 
 ---
 
 ### 🛠️ Technical Skills
 
-- **Languages**: Python, Java, JavaScript, HTML, CSS, React
-- **ML & Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLTK
-- **Tools**: Git, Jupyter Notebook
+- **Programming Languages**: Python, Java, JavaScript, HTML, CSS, React
+- **Machine Learning & Data Science**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, NLTK
+- **Tools & Technologies**: Git, Jupyter Notebook, Microsoft Excel
+- **Core Concepts**: Data Structures & Algorithms, DBMS, OOP, Image Processing
 
 ---
 
 ### 🔥 Featured Projects
 
 **Image Steganography Tool**  
-Python-based application to hide secret text messages inside images using Least Significant Bit (LSB) technique.
+Developed a secure Python application to hide and extract secret text messages within digital images using the **Least Significant Bit (LSB)** technique. The cover image remains visually unchanged.
 
-- **Tech Stack**: Python, Pillow (PIL), Tkinter, NumPy
-- [View Repository](https://github.com/yourusername/image-steganography)
+- **Technologies**: Python, Pillow (PIL), Tkinter, NumPy
+- **Key Features**: Encoding/decoding with a clean GUI interface
+- [View Repository](https://github.com/yourusername/image-steganography) *(replace with your actual link)*
 
-*(Replace `yourusername` with your actual GitHub username and add your other projects)*
+**[Add Project 2 Title Here]**  
+Brief description of the project, problem it solves, and key results (e.g., accuracy achieved).
+
+- **Technologies**: e.g., Scikit-learn, Pandas, Matplotlib
+- [View Repository](link)
+
+**[Add Project 3 Title Here]**  
+Brief description...
+
+- **Technologies**: ...
+- [View Repository](link)
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true)
+
+</div>
+
+---
+
+### 🌱 Currently Learning
+- Advanced Deep Learning and Neural Networks with TensorFlow/Keras
+- Natural Language Processing (NLP) techniques
+- End-to-end ML model deployment (Streamlit / Flask)
+
+### 🎯 Internship Goal
+Actively seeking **Machine Learning / Data Science / Python Developer Internship** opportunities where I can apply my skills to real-world projects and gain valuable industry experience.
 
 ---
 
 <div align="center">
-Made with ❤️ in Nagpur
+
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayahirestu95@gmail.com)
+
+**Made with ❤️ in Nagpur**
+
 </div>
