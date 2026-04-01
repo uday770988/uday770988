@@ -1,63 +1,100 @@
-# Hey there! I'm Uday Ahire 🚀
+<div align="center">
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQU3H5vV4Q6h3gQ4q/giphy.gif" alt="ML vibes" />
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=220&section=header&text=Uday%20Ahire&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Header Banner" />
 
-**B.Tech CSE (6th Semester)** @ Government College of Engineering, Nagpur  
-🔥 Turning data into magic with **Machine Learning** & **Data Science**
+  <h1>Hey there! I'm Uday Ahire 🚀</h1>
 
-I love building intelligent systems that actually solve problems — from hiding secrets in images to predicting the future with data. Passionate about Python, deep learning, and creating cool stuff!
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=6th+Sem+CSE+Student+@+GCOEN+Nagpur;Machine+Learning+%26+Data+Science+Enthusiast;Building+AI+that+actually+works;Python+%7C+TensorFlow+%7C+React;Currently+hunting+ML%2FDS+Internships" alt="Typing Animation" />
 
-### 🛠️ My Superpowers
-- **Languages**: Python 🐍 | Java | JavaScript | HTML | CSS | React ⚛️
-- **ML & Data Science Arsenal**: NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | NLTK | Learntools
-- **Other Tools**: Git | Jupyter Notebook | Excel
+  <p><strong>Turning data into intelligence | Hiding secrets in pixels | Predicting the future with models</strong></p>
+
+</div>
+
+<br>
+
+### 🛠️ My Tech Arsenal
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+<br>
 
 ### 🔥 Featured Projects
 
-#### 🕵️‍♂️ Image Steganography Tool
-Hiding secret messages inside images like a digital ninja!  
-Used **Least Significant Bit (LSB)** magic so no one can even tell the image was changed.
+**🕵️‍♂️ Image Steganography Tool**  
+Hiding secret messages inside images like a digital spy!  
+Used **Least Significant Bit (LSB)** technique — the image looks completely normal, but the data is safely hidden.
 
-**Tech**: Python + Pillow + Tkinter + NumPy  
-**Cool Factor**: Invisible data hiding with a clean GUI — perfect for learning image processing & security.
+**Tech**: Python • Pillow • Tkinter • NumPy  
+**Vibe**: Image Processing + Security  
 
-[Check it out →](https://github.com/yourusername/image-steganography)  
-*(Add your actual repo link)*
+[👉 Check the Repo](https://github.com/yourusername/image-steganography) *(replace with your link)*
 
-#### 🤖 [Your Next ML Project Title – e.g., Sentiment Analyzer]
-Short catchy description: "Analyzing movie reviews to detect if people loved it or hated it using NLP!"
+**🤖 [Your ML Project 2 Title – e.g. Sentiment Analysis Dashboard]**  
+Analyzing movie reviews to detect emotions using NLP.  
 
-**Tech Stack**: NLTK + Scikit-learn + Pandas + Matplotlib  
-**Result**: Achieved XX% accuracy | Built a cool dashboard  
+**Tech**: NLTK • Scikit-learn • Seaborn • Matplotlib  
+**Result**: XX% accuracy with beautiful visualizations  
 
-[→ Explore the repo](link)
+[👉 Explore](link)
 
-#### 📈 [Another Project – e.g., Disease Prediction System]
-"Building a smart model to predict diabetes/heart disease and help save lives."
+**📈 [Your ML Project 3 – e.g. Disease Prediction System]**  
+Smart model to predict diabetes/heart disease risk.  
 
-**Tech**: TensorFlow / Scikit-learn + Seaborn  
-**Impact**: Clean visualizations + high accuracy model
+**Tech**: TensorFlow • Pandas • Seaborn  
 
-*(Add 1-2 more real or planned projects here — even small ones look awesome!)*
+*(Add 1-2 more projects here — even small college ones look great!)*
+
+<br>
+
+### 📊 GitHub Activity (Live Stats)
+
+<div align="center">
+
+![Uday's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+
+</div>
+
+<br>
 
 ### 🌱 Currently Leveling Up
-- Mastering Advanced Deep Learning with TensorFlow
-- Exploring NLP and real-world deployment (Flask / Streamlit)
-- Planning to build end-to-end ML web apps with React frontend
+- Advanced Deep Learning & Neural Networks
+- NLP with NLTK + Real-world deployment (Streamlit/Flask)
+- Building full-stack ML apps with React frontend
 
-### 🎯 Looking For
-**Machine Learning / Data Science / Python Developer Internship**  
-Ready to bring my skills to real-world projects and learn from the best!
-
----
-
-### Let's Connect & Build Cool Stuff Together!
-- 📧 Email: udayahirestu95@gmail.com
-- 📱 Phone: +91 7709881093
-- 💼 LinkedIn: [Add your link]
-- 🐙 GitHub: You're already here!
-
-**Thanks for stopping by!** Star my repos if you like them ⭐  
-Made with ❤️ and lots of Python in Nagpur
+### 🎯 Open to Opportunities
+**Machine Learning • Data Science • Python Developer Internship**  
+Ready to contribute to real AI projects and learn from industry experts!
 
 ---
+
+<div align="center">
+
+### Connect & Collaborate
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udayahirestu95@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917709881093)
+
+**Made with ❤️ + Python + Coffee in Nagpur**
+
+</div>
+
+<!-- Optional fun GIF at bottom -->
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="ML Magic GIF" />
+</div>
